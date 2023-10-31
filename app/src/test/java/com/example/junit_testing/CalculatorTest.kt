@@ -1,4 +1,4 @@
-package com.example.junit_test
+package com.example.junit_testing
 
 import org.junit.Test
 import kotlin.test.assertEquals
